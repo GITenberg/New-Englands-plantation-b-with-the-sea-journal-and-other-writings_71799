@@ -1,0 +1,41 @@
+_repo: New-Englands-plantation-b-with-the-sea-journal-and-other-writings_71799
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Higginson, Francis
+    alias: Higgeson, Mr. (Francis)
+    birthdate: 1587
+    deathdate: 1630
+    gutenberg_agent_id: '56402'
+    url: http://www.gutenberg.org/2009/agents/56402
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Higginson
+description: ''
+gutenberg_issued: '2023-10-04'
+identifiers:
+  gutenberg: '71799'
+  lccn: 09007806
+language: en
+pgterms:marc904: https://archive.org/details/newenglandsplant00higgrich/page/n9/mode/2up
+pgterms:marc905: 20230108084119higginson
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: Steve Mattern, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aSalem, Mass. :$bThe Essex Book and Print Club, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Publications of the Essex Book and Print Club ; no. 1
+subjects:
+- !lcsh 'New England -- Description and travel -- Early works to 1800'
+- !lcc 'E186'
+- !lcc 'F001'
+- GITenberg
+tableOfContents: New-Englands plantation (facsim. of 1st ed.) -- Generall consideracons
+  for the planting of New England -- The agreement between Mr. Higginson and the New
+  England Company -- A true relation of the last voyage to New England in 1629 --
+  New-Englands plantation (facsim. of 3rd ed.) -- A letter that Mr. Higginson sent
+  to his friends at Leicester.
+title: 'New-Englands plantation : $b with the sea journal and other writings'
+url: http://www.gutenberg.org/ebooks/71799
