@@ -1,5 +1,8 @@
 _repo: New-Englands-plantation-b-with-the-sea-journal-and-other-writings_71799
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71799-h/images/cover.jpg
 creator:
   author:
     agent_name: Higginson, Francis
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56402
     wikipedia: https://en.wikipedia.org/wiki/Francis_Higginson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71799#New-Englands-plantation-b-with-the-sea-journal-and-other-writings
 gutenberg_issued: '2023-10-04'
 identifiers:
   gutenberg: '71799'
